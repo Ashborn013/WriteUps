@@ -1,0 +1,1 @@
+in crack me ther is funtion called dummy at dummy+72 it print compare  the envorment variables so run the code as env LOLO='iamarjun'./crackme006 with password as same as last challange 

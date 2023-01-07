@@ -1,0 +1,1 @@
+in this the code all it does is a sting compare and password in plane sight the password is  "KS-LICENSE-KEY-2021-REV-1"

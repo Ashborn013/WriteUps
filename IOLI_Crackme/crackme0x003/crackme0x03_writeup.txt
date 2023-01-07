@@ -1,0 +1,2 @@
+password-338724
+crackme 3 is same as 2 where the code is same till the test funtion is called it is noticed eax get the value 0x52b24 then i re ran the code with password is 338724 and got the Passowrd OK :) 

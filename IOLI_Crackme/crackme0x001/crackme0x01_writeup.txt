@@ -1,0 +1,1 @@
+ first break main run the program ni through the program till it called printf and scanf the value that was taken is compared with  0x149a ie 5274 so after reruning the code and passing 5274 as password it gave Password OK :)

@@ -1,0 +1,2 @@
+after scanf statement was called the value 0x5a was moved into ebp and 0x1ec after it and at main+100 eax becomes 0x52b24 then password input is loaded in eax and compared so password is 0x52b24 ie 338724 we get  Password OK :) 
+when we rerun the program

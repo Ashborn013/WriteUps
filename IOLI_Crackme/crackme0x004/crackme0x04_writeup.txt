@@ -1,0 +1,1 @@
+in crackme 4 the the value is passed to check funtion and then the string is sliced and added if the sum forms 0xf ie 15 password is valid
