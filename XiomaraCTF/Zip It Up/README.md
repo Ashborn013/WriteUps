@@ -7,4 +7,7 @@ unzip 1001.zip
 Archive:  1001.zip
 file #1:  bad zipfile offset (local header sig):  0
 ```
+which would indicate ther is a problem with the header 
+
+open the file any hex editor i will use `ghex` 
 
