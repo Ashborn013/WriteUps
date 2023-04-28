@@ -9,5 +9,8 @@ file #1:  bad zipfile offset (local header sig):  0
 ```
 which would indicate ther is a problem with the header 
 
-open the file any hex editor i will use `ghex` 
+open the file any hex editor i will use [ghex](https://github.com/GNOME/ghex.git)
 
+[image]()
+
+if you check the [magic number of file]() you can see a zip file header starts with `PK` not `pk` by corecting this we can unzip the file 
