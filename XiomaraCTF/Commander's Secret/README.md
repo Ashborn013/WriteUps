@@ -88,5 +88,8 @@ Image Size                      : 685x426
 Megapixels                      : 0.292
 ```
 we can see this line `User Comment  : c2Vhc29uIDMgZXBpc29kZSAxNiAxODoxNgo=` is sus by decodeing this base64 string we get  `season 3 episode 16 18:16` we could try using this as the password for the zip file it return as incorect  
+since the image is from the show attack on titan if we go the specified episode we get this string 
+<img src='img/com_img1.png'>
+
 
 
