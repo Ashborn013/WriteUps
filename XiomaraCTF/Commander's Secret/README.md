@@ -91,5 +91,18 @@ we can see this line `User Comment  : c2Vhc29uIDMgZXBpc29kZSAxNiAxODoxNgo=` is s
 since the image is from the show attack on titan if we go the specified episode we get this string 
 <img src='img/com_img1.png'>
 
+`Give up on your dream and die.` by using this as the password for the zip file  we get flag.txt
+but we dont have the flag yet if we open the file we get Erwins last speech we can find somthing odd about this file ther a lot of extra spaces this sign that a white space stego has been used 
+
+whitespace stegno aka `stegsnow` when extracting the data we require a password that we dont know we could try all the words in the flag.txt but after a short while we relize it is not
+So we need to use a tool call `snowcraker` which will do a dictionary attack on flag.txt and password list will the commom password list `Rockyou.txt` which will be found in `/usr/share/wordlist/rockyou.txt` if you are using kali 
+
+by runing this `snowcracker -c N -f flag.txt -w /usr/share/wordlist/rockyou.txt` we get password as `wolverine` and flag as  `Xiomara{d0nt_l00k_b4ck_ch4rge3_4h34d_s0ld13r}`
+
+
+
+
+
+
 
 
