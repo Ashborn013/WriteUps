@@ -1,2 +1,0 @@
-in this code is simlar to last but it askes for name so by looking at the code in ghidra we can see the name and key 
-run ./license_checker_2.o NomanProdhan KS-LICENSE-KEY-2021-REV-2 

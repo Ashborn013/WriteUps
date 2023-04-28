@@ -1,1 +1,0 @@
-in this ther is another funtion called parell and it is called if and only if the sum is 16 and in parell ther is a line and which performes a bit and  , which  if is  0 it prints the password OK
